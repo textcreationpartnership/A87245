@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Inconsistency of man's Dagon with God's ark, or, [A] Sober discourse, shewing the great sinfulness of humane mixtures in divine worship</title>
+         </titleStmt>
+         <extent>Approx. 86KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87245</idno><idno type="EEBO-CITATION">38875706</idno>
+  <idno type="VID">152286</idno>
+  <idno type="EEBO-PROQUEST">2240917225</idno>
+  
+            <idno type="STC">Wing I138B</idno>
+            <idno type="STC">ESTC R42753</idno>
+            <idno type="OCLC">38875706</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87245)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152286)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2290:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Inconsistency of man's Dagon with God's ark, or, [A] Sober discourse, shewing the great sinfulness of humane mixtures in divine worship</title>
+               </titleStmt>
+               <extent>[6], 63 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Mitchell,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The Great and necessary duty of mutual exhortation opened and applied from Hebrews III, xiii" p. 35-63, has special half-title page.</note>
+                  <note>Imperfect: tightly bound, with loss of print.</note>
+                  <note>Reproduction of original in: Dr. Williams' Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Liturgy --  Early works to 1800.</term>
+               <term type="topical_term">Public worship --  Church of England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:152286:1"/>
+                  <p>THE INCONSISTENCY OF <hi>Man's Dagon</hi> WITH GOD'S ARK. OR, A sober Discourse, shewing the great sinfulness of Humane Mixtures in Divine Worship.</p>
+                  <q>
+                     <p>
+                        <hi>From 2.</hi> Zeph. <hi>the latter part of the 5.</hi> v.</p>
+                     <p>
+                        <bibl>
+                           <hi>
+                              <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>ek. 48.8.</hi>
+                        </bibl> In their setting of their Threshold and their Posts by my Posts, and the Wall between me and them, they have even defiled my holy name, <hi>&amp;c.</hi>
+                     </p>
+                  </q>
+                  <q>
+                     <p>
+                        <bibl>
+                           <hi>
+                              <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap> Cor. 6.17.</hi>
+                        </bibl> Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing, <hi>&amp;c.</hi>
+                     </p>
+                  </q>
+                  <q>
+                     <p>
+                        <hi>Superstition is a sin opposite to Religion.</hi>
+                     </p>
+                     <bibl>Aquin.</bibl>
+                  </q>
+                  <q>
+                     <p>No matter what the thing be in matters of Religion, but who it is that commands it, we must look to that truth.</p>
+                     <bibl>
+                        <hi>Summae Religionis est imitari quem colis.</hi>
+                     </bibl>
+                  </q>
+                  <p>
+                     <hi>LONDON,</hi> Printed for <hi>Tho. Mitchell.</hi> 1682.</p>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:152286:2"/>
+                  <pb facs="tcp:152286:2"/>
+                  <head>TO THE READER.</head>
+                  <opener>
+                     <salute>Reader,</salute>
+                  </opener>
+                  <p n="1">
+                     <hi>I</hi> Need make no other Apology for the Publishing of this short Discourse, than what <hi>David</hi> did to his Brother <hi>Eli<g ref="char:EOLhyphen"/>ab,</hi> being severely censured and sharply rebuked by him for coming down to see the Battle; What have I now done, saith he, is there not a cause? when the pure Worship of God is both defied and defiled, is there not a cause to speak in the Vindi<g ref="char:EOLhyphen"/>cation thereof? That Dumb Son when he saw his Father ready to be slain, though he never spake before, yet his filial Af<g ref="char:EOLhyphen"/>fection did then so break the Bars of his Speech, that he cries out, Oh do not kill my Father! Who is there that hath a<g ref="char:EOLhyphen"/>ny filial Affection to God, can behold his holy Name so defiled, by Mens setting
+<pb facs="tcp:152286:3"/>
+                     <pb facs="tcp:152286:3"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb facs="tcp:152286:4"/>their Posts by his Posts (which is a kind of <hi>Deicidium</hi>) and be silent? It is meet our Mouths that are made for God should speak for God; and <hi>Luther</hi> would ra<g ref="char:EOLhyphen"/>ther be accounted any thing, than be ac<g ref="char:EOLhyphen"/>cused of sinful silence in the Cause of Christ. It is not Ambition, or any vain Glory, but a sense of my Duty, that hath engaged me to this adventure, at such a time when men are made Of<g ref="char:EOLhyphen"/>fenders for a Word; but it is God's cause I plead, his Glory, as greatly concerned herein. I am conscious of my own Weak<g ref="char:EOLhyphen"/>ness, and far from thinking I have done any thing worthy of the Readers accep<g ref="char:EOLhyphen"/>tance.</p>
+                  <p>Here are plain Truths in plain Ex<g ref="char:EOLhyphen"/>pressions, without the Embroideries of Rhe<g ref="char:EOLhyphen"/>torical flourishes, ever esteeming Truth to be most comely and beautiful when she appears in her native Dress. I pretend not to new discovery, nor to amuse thee with abstruse notions. And if any shall object there are many pieces extant that treat
+<pb facs="tcp:152286:4"/>of this Argument, therefore this might well have been spared, I readily grant all they say; but to write something <hi>(de no<g ref="char:EOLhyphen"/>vo)</hi> of this Subject, which is the suffering Truth of the times, may not (I conceive) be unseasonable. What is here present<g ref="char:EOLhyphen"/>ed is but the substance of one Sermon, with a little addition composed many years since, and if it may contribute to the settlement and satisfaction of any who are scrupulous, or in the dark about this great point, or convince any who adhere to sinful mixture in Divine Wor<g ref="char:EOLhyphen"/>ship, I have my end.</p>
+                  <p>Reader, I desire thee to weigh well what I have now inserted, in the ballance of the Sanctuary, and then judge. As for the other small piece here annexed, it treats of an excellent Duty, almost anti<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>uated and out of use amongst the Profes<g ref="char:EOLhyphen"/>sors of this Age, the neglect of whi h hath <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ad a bad tendency to the decay of the life &amp; power of Godliness; there is but little that I know of, written of this Subject, and I
+<pb facs="tcp:152286:5"/>have made this Essay that I might pro<g ref="char:EOLhyphen"/>voke some more able person to write more fully about it, which certainly would be very seasonable, and through Gods Bles<g ref="char:EOLhyphen"/>sing profitable service. I shall hold you no longer in the Porch: Consider what is here said, <hi>and the Lord give thee Un<g ref="char:EOLhyphen"/>derstanding in all things.</hi>
+                  </p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb n="1" facs="tcp:152286:5"/>
+                  <head>THE INCONSISTENCY OF <hi>Man's Dagon</hi> WITH GOD'S ARK, <hi>&amp;c.</hi>
+                  </head>
+                  <epigraph>
+                     <q>
+                        <bibl>
+                           <hi>ZEPH. I.V.</hi>
+                        </bibl>
+                        <p>— And them that worship, and that swear by the Lord, and that swear by <hi>Malcham.</hi>
+                        </p>
+                     </q>
+                  </epigraph>
+                  <p>THE great Truth which the Lord calls his People to contend for at this day, is the purity of his Wor<g ref="char:EOLhyphen"/>ship, and the Worship of God is so great a thing as it is worth contending for; I have therefore chosen to insist upon this Ar<g ref="char:EOLhyphen"/>gument at this time.</p>
+                  <p>This Prophet doth threaten a general deso<g ref="char:EOLhyphen"/>lation,
+<pb n="2" facs="tcp:152286:6"/>
+                     <hi>v.</hi> 3. <hi>I will consume Man and Beast:</hi> Not only Man is threatned to be cut off that had sinned, but the Creatures also which they had abused to their Lust.</p>
+                  <p>This People had been often warned and ad<g ref="char:EOLhyphen"/>monished of their sins by former Prophets, but went on incorrigibly, therefore the Lord proceeds to give Sentence against them by this Prophet. Hence this is observable:</p>
+                  <p>
+                     <hi>Doctr.</hi> That God will not always strive with sinners his abused Patience will have an end. Though God doth long bear with sin<g ref="char:EOLhyphen"/>ners, yet he will not always bear with them, tho long suffering, yet not always suffering; and when he will be no longer burdened with their sins, then they must be burdened with his judgments. In the 4th <hi>ver.</hi> he tells us who they are that fall under this severe threatning, <hi>Judah, and the Inhabitants of Jerusalem:</hi> and their sins are pointed at which had provoked the Lord to sentence them thus severely. There is in this Chapter a large Bill of Indictment drawn up against them, and the Sins of Ido<g ref="char:EOLhyphen"/>latry and Superstition are set in the Front of this Bill, as being sins of the first magnitude; <hi>I will cut off the Remnant of Baal from this place:</hi> that is, those that notwithstanding <hi>Josiah</hi>'s
+<pb n="3" facs="tcp:152286:6"/>Reformation held up some part or Remnant of <hi>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>aat</hi>'s Worship; <hi>and them that worship the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ost of Heaven:</hi> Those were another sort of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>olaters, such as observed and imagined a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ity in the Stars <hi>And them that worship, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>at swear by the Lord, and swear by</hi> Malcham, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>at divided and mixed the Worship of God <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>h the service of Idols.</p>
+                  <p>
+                     <hi>[That swear by the Lord]</hi> To swear is a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t of Gods Worship, yea so eminent a part <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> it is sometimes put for the whole Worship <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> God: <hi>Psal.</hi> 63.11. <hi>Isa.</hi> 19.18. and so it taken in the Text. [<hi>And swear by</hi> Mal<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>am] which signifies their King, and it is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>s one conceives upon the place) <hi>Molech</hi> the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ol of the Amorites, 1 <hi>King</hi> 1.7. They call <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>eir Idol by the name King, <hi>Honoris gratiâ,</hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Honour sake: Thus they halted between <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d and Idols, they made a profession of ser<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>g the true God, yet did mix his Worship <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>th the service of Idols.</p>
+                  <p>It is storied of <hi>Redwald</hi> King of the <hi>East<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>xens,</hi> in the time of the Heptarchy in <hi>Eng<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>d,</hi> in the same place he worshipped God, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> set up an Altar to Worship his Idol.</p>
+                  <p>And it's reported of an Emperor of <hi>Rome,</hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>at in one Temple he would have Christ and <hi>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>pheus</hi> worshipped both together; so they
+<pb n="4" facs="tcp:152286:7"/>
+                     <hi>swear by the Lord, and they swear by</hi> Malcham<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> and these are here ranked with the grosser sort of Idolaters, and threatned to drink of the same Cup of Gods Fury and Indignation. The words will afford us this Observation.</p>
+                  <p n="2">2. <hi>Doct.</hi> That a mixture in the Worship of God is very sinful and abominable in hi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> sight, and a sin so highly provoking, as it wil<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> bring swift destruction upon those who are guilty thereof.</p>
+                  <p>This Doctrine consists of these 2 Branches.</p>
+                  <p n="1">1. That a mixture in the Worship of God is very displeasing to, and abominable in hi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> sight.</p>
+                  <p n="2">2. That it is a sin so highly provoking, as i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> will bring down swift destruction upon thos<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> who are guilty of it. For those are put into th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> black Roll to be destroyed with the Remnan<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> of <hi>Baal,</hi> and them that worship the Host o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Heaven.</p>
+                  <p>I shall speak something to each of these, t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> begin with the first of these particulars.</p>
+                  <p n="1">1. A mixture in Gods Worship is greatly displeasing to him. God who is of purer Eye than to behold the least Iniquity with the lea<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> approbation, cannot but behold this great Iu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> quity with the greatest detestation. Mens tra<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <pb n="5" facs="tcp:152286:7"/>ditions mixed with the pure Institutions and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>rdinances of God, they are (as one saith) as <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>oak to his Eyes, as Gall to his Taste, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>n abomination to his Spirit.</p>
+                  <p>There are 3 Arguments and Demonstrations <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hich I shall lay down to clear the truth of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>is Assertion.</p>
+                  <p n="1">1. If God will be worshipped only accord<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>g to his own appointments, then the least <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ixture in his Worship is very displeasing to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>m; but God will be worshipped only accord<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>g to his own appointments. This is clear in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e matter of the Ark, 2 <hi>Sam.</hi> 6.7. it was <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t <hi>Uzza</hi>'s putting his hand to the Ark, but <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> carting the Ark that displeased God, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> which he was smitten, it being not accord<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>g to Gods appointments; for by Divine ap<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>intment it was to be carried upon the Shoul<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>rs of the <hi>Levites,</hi> 1 <hi>Chron.</hi> 15.12, 13. <hi>Moses</hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> making the Tabernacle was admonished to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>o all things according to the pattern shewed <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>m in the Mount, <hi>Heb.</hi> 8.5. <hi>Moses</hi> must <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ot go a hairs-breadth from his pattern. The <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ord commandedin building the Altar of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ones not to lift an Iron Tool upon them, <hi>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>eut.</hi> 27.5. A man would think (saith one) <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hat to carve and paint the Stones would be <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>etter than to have the Stones rough: No, saith
+<pb n="6" facs="tcp:152286:8"/>God, if you do but lift up an Iron Tool upon it you pollute it, <hi>Exod.</hi> 20.25. And <hi>Solomon</hi> in making the Temple, wherein God placed his Worship, was to do every thing according to Divine appointment, 2 <hi>Chron.</hi> 3.5. so ex<g ref="char:EOLhyphen"/>act is God to have every thing in his Worship according to his own appointment.</p>
+                  <p n="2">2. If it be a good thing, and very pleasing to God to keep to the purity of his Worship, then the contrary must needs be displeasing to God; but it's a good thing, and very plea<g ref="char:EOLhyphen"/>sing to God to keep to the purity of Worship, <hi>Joh.</hi> 4.23. God seeketh such to worship him, as being highly pleased and greatly delighted with such Worshippers; and <hi>v.</hi> 24. <hi>God is a Spirit, and they that worship him must worship him in Spirit,</hi> that is with inward Love and Sincerity, <hi>and in Truth,</hi> that is, according to the true Rule prescribed in his Word: Spirit re<g ref="char:EOLhyphen"/>spects the Inward Power, and Truth the Out<g ref="char:EOLhyphen"/>ward Form: God is not pleased with any thing in his Worship that is not his own.</p>
+                  <p n="3">3. If to mix the Worship of God with hu<g ref="char:EOLhyphen"/>man Inventions be a sin that God will severely punish, then it's very displeasing to him; But it is a sin he will severely punish. They who are guilty of this sin in the Text are threatned with Destruction: So <hi>Ezek.</hi> 43.8. they set their Post<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="7" facs="tcp:152286:8"/>by Gods Post, and their Threshold by His <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>reshold: <hi>i. e.</hi> They introduced their own <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>entions into his Worship, and thereby pol<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ed his holy Name; <hi>Wherefore</hi> (saith God) <hi>I <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ve consumed them in mine Anger.</hi> The Wor<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> of God (saith one) is a prime and precious <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ce, the ultimate end of all our sacred per<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>mances, though the Edification of Man be <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>end subordinate.</p>
+                  <p>2ly, Why is God so displeased with mixtures <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>is Worship?</p>
+                  <p>
+                     <hi>Reason</hi> 1. Because the least mixture in his <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>orship doth defile his Worship, as when any <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ng that is worse is mixed with that which is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>er, the better is desiled; so Gold is defiled <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>en mixed with baser metal, the Wine is a<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>erated when mixed with Water; when the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ure Inventions of men are mixed with the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e Institutions of Christ, then is Gods Wor<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> defiled, when men will mix their Water <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>h Gods Wine, their Dross with his Gold, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>y defile his Worship; therefore saith God, <hi>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>k.</hi> 43.8. <hi>In their setting their Posts by my <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>s, and their Threshold by my Threshold <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>y have defiled my holy name.</hi> Gods <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>orship is his Name, External Worship <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>is Name, the Temple is called the place
+<pb n="8" facs="tcp:152286:9"/>where God put his Name, that is, his Wor<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> ship, 1 <hi>King.</hi> 9.3. As a man is known by hi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Name so is God known by his Worship; no<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> this cannot but exceedingly displease God whe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> his Name is polluted.</p>
+                  <p>
+                     <hi>Reas.</hi> 2. Because mixtures in Gods Wor<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> ship dishonour him much, yea, so much di<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> honour is reflected upon God hereby, as whe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> his Worship is mixed he doth not accoun<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> himself honoured at all; we have a notabl<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Instance 2 <hi>King.</hi> 17.33. <hi>They feared the Lor<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> and served their own Gods after the manner<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> the Nations, whom they carried away from thence.</hi> And <hi>v.</hi> 34. it's said they did not fear him: A divided fear is no fear, a mixed Worship is n<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Worship for Gods approbation. <hi>Jer.</hi> 32.23. <hi>They have done nothing</hi> (saith the Prophet)<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <hi>all that thou commandedst them to do:</hi> Why but because their fear was divided. God wi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> have all or none at all. To set up any thin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> in competition with God is a great dishonou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> to him, and high displeasing in his sight God cannot endure any Competitor. Whe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <hi>Darius</hi> sent to <hi>Alexander</hi> to divide with him no, saith <hi>Alexander,</hi> there can be but one Su<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> in the Firmament. Could not <hi>Alexander</hi> en<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> dure a Competitor, and do you think God can
+<pb n="9" facs="tcp:152286:9"/>The Lord cannot endure that any part of his Honour should be given to another, <hi>Isa.</hi> 42. To make any thing equal with God is very <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ishonourable to him, they who set up an Idol <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ake it equal with God: All false Worship is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> setting our Posts by Gods Posts, and of our Threshold by His Threshold; a making (as <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e saith) both of equal height and worth, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hich redounds much to Gods dishonour, <hi>Isa.</hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.25.</p>
+                  <p>3ly, Because it is a great intrenching upon <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e Kingly Office of Christ; for if Christ be King, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> certainly he is, then the Legislative Power <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> only in the hands of Christ; for he is King <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>one, and none have Power to place an Or<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>nance or Ceremony in the Church but Christ <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ly, who is Head and King of it: This is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e Prerogative Royal of Christ. Not <hi>Moses</hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the Tabernacle, nor <hi>Solomon</hi> in the Temple <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ight prescribe any Substantial or Ceremonial Worship, <hi>Ex.</hi> 35.10. 2 <hi>Chron.</hi> 3.3. and for <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>len to introduce their Inventions into the Worship of God, what a bold intrusion is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>is upon the Kingly Office of Christ? And if <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> be death to counterfeit the Kings Coin, what <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>o they deserve that dare to counterfeit the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>oin of the King of Heaven?</p>
+                  <p>4ly, Because mixtures in Divine Worship
+<pb n="10" facs="tcp:152286:10"/>do alienate the Heart from God. Christ faith<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <hi>Mat.</hi> 6. <hi>No man can serve two Masters;</hi> and this is so the Prophet tells us, <hi>Hos.</hi> 4.11. tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <hi>Whoredom, Wine, and new Wine do take away the heart.</hi> False Worship is spiritual Whore<g ref="char:EOLhyphen"/>dom, that alienates and estranges the Hear<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> from God. Who cry down more, or are more careless of the pure Worship and Institutions o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Christ, than those that are most busie and care<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> ful to set up the Inventions of Men? <hi>Deut.</hi> 32.15, 16. Such are all for an outward formali<g ref="char:EOLhyphen"/>ty, nothing for the inward Power, and thi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> must needs be displeasing to God, who is a Spirit, and must be worshipped in Spirit and in Truth.</p>
+                  <p>5ly, Because it frustrates the Commands o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> God. Christ tells the Scribes and Pharisees, <hi>Mat.</hi> 15.6. that they made the Commandments o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> God of no effect by their Traditions; and saith he, <hi>v.</hi> 9. <hi>In vain do ye worship me, teach<g ref="char:EOLhyphen"/>ing for Doctrine the Commandments of Men.</hi> Such Worship is a nullity in the account o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> God, an insignificant Cipher, and therefore highly displeasing to him. So much for the first Branch or part of the Doctrine.</p>
+                  <p n="2">2. <hi>Branch.</hi> That it is a sin so highly pro<g ref="char:EOLhyphen"/>voking, as it will bring swift Destruction up<g ref="char:EOLhyphen"/>on
+<pb n="11" facs="tcp:152286:10"/>those who are guilty of it, and no sin sooner: <hi>Deut.</hi> 4.25, 26. It is a ruining sin, for this <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>n chiefly the Lord brought such sad calami<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ies upon his own people the Jews. Oh what <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>gnal and remarkable Judgments did their cor<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>upting and adulterating the Worship of God <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>aw down upon their Heads!</p>
+                  <p n="1">1. It kindles the Lords Jealousie. The Lord <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ledge; said to be a jealous God in the matters of his Worship, 1 <hi>Cor.</hi> 10.22. And in the 2d Com<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>andment (which relates to the Worship of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>od) he threatens to visit the breach of that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>on the Children unto the 3d and 4th Gene<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>tion. What did God do to the 7 Churches <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <hi>Asia,</hi> for corrupting his Worship? And <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hat may hang over this Nation for their sin<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>l mixtures in Gods Worship I tremble to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ink.</p>
+                  <p n="2">2. It is a sin that will provoke the Lord to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ave and forsake a People, and no sin sooner. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> will make God to break up house and be <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>one. The Temple was called Gods glorious <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>gh Throne, his Habitation, his Sanctuary, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e place where he recorded his name; yet <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hen the Worship of God was corrupted, he <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>aves his Temple, he breaks up house, the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>lory of the Lord departed from the Cheru<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ms, <hi>Ezek.</hi> 9.3. If they will come into his
+<pb n="12" facs="tcp:152286:11"/>House he will out; when the Ark comes in <hi>Dagon</hi> goes down, and when <hi>Dagon</hi> comes in the Ark goes out. And when God departs from a People, then all Judgments come upon them. To be deprived of the greatest good is to be in<g ref="char:EOLhyphen"/>vested with the greatest evils, as Night suc<g ref="char:EOLhyphen"/>ceeds day, and Darkness Light, so Judgment succeed Mercies, and the greater the Mercies the greater the Judgments that follow; whe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Gods hedge of Protection is taken away from a People, then are they exposed to, and vexe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> with the greatest Evils; when God is further from a People, then Evils are nearest to them<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> The Presence of God is Banishment to all E<g ref="char:EOLhyphen"/>vil, but the Absence of God is Banishment from all Good. When God is once departe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Destruction cannot be far off, <hi>Hos.</hi> 9.12. <hi>Ye<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> woe also to them when I depart from them.</hi> N<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> thing but Woe and Misery can be written up<g ref="char:EOLhyphen"/>on the Forehead of such a People. Gods d<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> parture is the rise and original of all Evil<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> And so I have dispatched both the parts of th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Doctrine, and come to the Application of th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> whole.</p>
+                  <div type="part">
+                     <head>APPLICATION.</head>
+                     <p>
+                        <hi>Use.</hi> Is it thus that a mixture in the Wo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <pb n="13" facs="tcp:152286:11"/>ship of God is a sin so greatly displeasing to him, and a sin that will bring swift destruction upon those who are guilty of it? then here is matter of Reprehension:</p>
+                     <p>1st, To those that are guilty of this great Evil, in introducing and mixing humane In<g ref="char:EOLhyphen"/>ventions with the pure Worship of God; that halt between two Opinions. Oh! this is a great sin, a God-provoking sin; you do hereby cor<g ref="char:EOLhyphen"/>rupt and defile the pure Worship of God; and is not this very provoking to him? What can you do more to heighten the displeasure of God against your selves and others? A little Leaven leavens the whole Lump: It was a good work in <hi>David</hi> to bring the Ark of the Lord from the house of <hi>Abinidab,</hi> but one Philistine Ceremony spoiled the whole work, 2 <hi>Sam.</hi> 6.2, 3. A little Vice marrs a great deal of Virtue. <hi>Naaman</hi> the <hi>Assyrian</hi> is highly com<g ref="char:EOLhyphen"/>mended, 2 <hi>King.</hi> 5.1. for a great man with his Master, and honourable, a mighty man of Valour, but he was a Leper, this marred all. One little spot in the Face blemisheth all the Beauty. God must be worshipped in a right Order and in a right Ordinance, and that on<g ref="char:EOLhyphen"/>ly is a right Ordinance which is according to his Appointment, without the least mixture of Mans Inventions; <hi>quicquid praeter Mandatum
+<pb n="14" facs="tcp:152286:12"/>est Idolum,</hi> whatsoever is besides the Command is an Idol. Though men may look upon their own Inventions as very specious and beautiful, yet they ahve no Beauty but blackness in them in the account of God. The City <hi>Hierapolis</hi> had the Title of <hi>Sacred,</hi> as <hi>The Sacred City,</hi> (for so much the word signifies) yet was it the place of the most detested Idolatry, and wherein was worshipped the Idol of the <hi>Mermaid Ater<g ref="char:EOLhyphen"/>gatis</hi> (as <hi>Pliny</hi> writeth.) Though men put the Title of Sacred, Divine, <hi>&amp;c.</hi> upon their superstitious Inventions, yet they are most de<g ref="char:EOLhyphen"/>testible in Gods Eyes. One hath this Compa<g ref="char:EOLhyphen"/>rison, The Ape, saith he, is therefore the more deformed, because so like a man, and yet is not a man; so all the Worship which hath the greatest appearance of Humility, Zeal, and Mortification, which yet hath not its Origi<g ref="char:EOLhyphen"/>nal from God, is the more loathsom; <hi>simula<g ref="char:EOLhyphen"/>ta Pietas duplex iniquitas,</hi> A counterfeit Piety is a double Iniquity. Superstition, as one saith, is <hi>(Res insana,)</hi> and so it is indeed; for it is contrary to the Wisdom of the word and of the Spirit, which are the Ground and Life of the Worship of God.</p>
+                     <p>2ly, Reproof to those who adhere to, and join with such a Worship, who cleave to, and comply with mixtures in the Worship of God.</p>
+                     <pb n="15" facs="tcp:152286:12"/>
+                     <p n="1">1. <hi>Obj.</hi> But may some say, we have a good End, and though there be some Corruption yet we do not own that.</p>
+                     <p>
+                        <hi>Ans.</hi> A good End will never justifie a bad Action; though a bad End will make a good Action bad, yet a good End will not make a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ad Action good.</p>
+                     <p>2ly, Whereas thou sayest thou dost not own the Corruption, and yet thou joinest; thy very joining in it is an owning of it.</p>
+                     <p n="2">2. <hi>Obj.</hi> But we are necessitated to it, for <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e cannot enjoy publick Ordinances else; and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>s it not better to yield to some little things <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e cannot help, than to be deprived of pub<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ck Ordinances?</p>
+                     <p>
+                        <hi>Ans.</hi> Every little thing is a great thing in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e Worship of God: The least mixture of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>lans Invention in Divine Worship is not to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e yielded to; we must not so much as touch <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e unclean thing, which is the least that can <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e, 2 <hi>Cor.</hi> 6.18. Consider what the Lord <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>eaks by the Prophet <hi>Haggai</hi> 2.12, 13, 14. <hi>
+                           <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> one bear holy flesh in the skirt of his Garment <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>d with his skirt doe touch Bread, or Pottage,
+<pb n="16" facs="tcp:152286:13"/>or Wine, or Oil, or any Meat, shall it be holy? and the Priests answered no; then said the Lord if one that is unclean by a dead Body touch any of those, shall it be unclean? And the Priest an<g ref="char:EOLhyphen"/>swered and said, it shall be unclean. So is this Nation, and so is this People before me, saith the Lord; and so is every work of their hands, and that which they offer there is unclean.</hi>
+                     </p>
+                     <p>2ly, It's a grand mistake to think that God does not own an Ordinance unless it be pub<g ref="char:EOLhyphen"/>lickly administred. Gods People have not al<g ref="char:EOLhyphen"/>ways the enjoyment of publick Ordinances.</p>
+                     <p>The Ordinances of God are sometimes thrust into Corners, and he is present with then there, <hi>Joh.</hi> 20.19. We read here of a pri<g ref="char:EOLhyphen"/>vate meeting of Christians, and Christ in th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> midst of them, and this according to his Pro<g ref="char:EOLhyphen"/>mise, <hi>Mat.</hi> 18.20. Sometimes Christ's Spou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> is in the Clefts of the Rock, and in the secre<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> places of the Stairs, and there Christ loves to hear her voice, and to see her Face, <hi>Can.</hi> 2.19. God sometimes calls his People into the Wilde<g ref="char:EOLhyphen"/>ness, and there he prepares a Table for the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <hi>Hos.</hi> 2.14. and wilt not thou follow the foo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> steps of the Flock, though it be in the Wilde<g ref="char:EOLhyphen"/>ness? and seek for the presence of Christ a<g ref="char:EOLhyphen"/>mong the Saints? <hi>Cant.</hi> 1.7. <hi>Tell me, oh th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> whom my Soul loveth where thou feedest, whe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                           <pb n="17" facs="tcp:152286:13"/>thou makest thy Flock to rest at Noon, for why should I be as one that turneth aside by the Flocks of thy Companions?</hi> Certainly it is good, yea, best to be where Christ is.</p>
+                     <p n="3">3. <hi>Obj.</hi> But, say some, the Ordinances are corrupted only to the Dispensers of them, not to those that join in them; therefore we may join without sin.</p>
+                     <p>
+                        <hi>Ans.</hi> If the Ordinances themselves be cor<g ref="char:EOLhyphen"/>rupted by the mixtures of Mans Inventions, then they are corrupt as well to them that join in them, as to those that dispense them, but the Ordinances themselves are corrupted by the Inventions of men. They are made one entire Worship, and any thing of Human Invention added to the Ordinances of God, and made one entire Worship, do corrupt his Ordinances. <hi>This is to set mans Post by Gods Post.</hi> Gods word is a perfect Rule of Worship without the Rules of Men. <hi>Corruptio optimorum pessima,</hi> the best things corrupted, or corruptly used, are the worst: Gold becomes Dross, and holy things but Dung, when they are corrupted. <hi>Isa.</hi> 1.11, 12, 13. The Lord there reproved the People for their Sacrifices, and calls them vain Oblations; and yet they were such as he him<g ref="char:EOLhyphen"/>self
+<pb n="18" facs="tcp:152286:14"/>had appointed; <hi>Incense,</hi> saith God, <hi>is an abomination to me, the New-Moons, and the Sabbaths, the calling of Assemblies I cannot away with, it is iniquity even the solemn meet<g ref="char:EOLhyphen"/>ing.</hi> These were things of Gods own Instituti<g ref="char:EOLhyphen"/>on, yet when they had abused and corrupted them, they were abominable in his sight, and iniquity to him: So exact is God when any of his own Institutions be prostituetd to the Lusts of men, he owns them not, but looks upon them as abominable.</p>
+                     <p n="4">4. <hi>Obj.</hi> But Christ was present at the Wor<g ref="char:EOLhyphen"/>ship of the Scribes and Pharisees, which was a corrupt Worship; Is not Christ an Example in this to us?</p>
+                     <p>
+                        <hi>Ans.</hi> Christ is not an Example to us in all things that he did, we are not to imitate Christ, neither can we, in all things. Christ did ma<g ref="char:EOLhyphen"/>ny things as God, he wrought Cures, did ma<g ref="char:EOLhyphen"/>ny Miracles, <hi>&amp;c.</hi> we cannot follow him in these things.</p>
+                     <p>2ly, If in this Action Christ be an Example to us, then it's not only warrantable but a Du<g ref="char:EOLhyphen"/>ty to be present at a corrupt Worship; for it's undoubtedly a Duty to do as Christ did, where<g ref="char:EOLhyphen"/>in he is to be imitated by us; and then it is a
+<pb n="19" facs="tcp:152286:14"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>n to be absent, for every defect and failure <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> our Duty is a Sin.</p>
+                     <p>3ly, Christ was present at the Worship of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e Scribes and Pharisees, but how? not as an <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>pprover, but as a Reprover: This was Christs <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>nd in going, that he might convince them, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>d reprove their Superstitions, as appears <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ainly by his declaring so much against their <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>raditions, and superstitious Inventions; and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> you will follow Christ in this, then you <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ust make that your End in going which was <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>hrists End, <hi>viz.</hi> go to reprove and confute <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>em. But I suppose few that join in the Wor<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ip that is now celebrated in Parishes, make <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>at their end in joining.</p>
+                     <p n="5">5. <hi>Obj.</hi> But doth not Christ command the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>sciples and the multitude to hear the Scribes <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>d Pharisees? <hi>Mat.</hi> 23.2.</p>
+                     <p n="1">1. <hi>Ans.</hi> Here is not a word for hearing them; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e commands them to observe and do what <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ey bad them observe, and so they might do <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>d not hear them.</p>
+                     <p>2ly, Christ tells them the Scribes and Pha<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>sees sit in <hi>Moses</hi> Seat; now <hi>Moses</hi> was a Ma<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>strate, and they were (as Dr. <hi>Hamond</hi> saith) <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> the <hi>Sanhedrim,</hi> succeeding <hi>Moses</hi> and the
+<pb n="20" facs="tcp:152286:15"/>Seventy Elders, and Christs charge amounts to thus much, all those moral Precepts out of <hi>Moses</hi> Law which they bid you observe, those observe and do: Though they be very super<g ref="char:EOLhyphen"/>stitious and hypocritical, and say and do not, yet reject not you what they say, because of their wickedness. We are not to reject wha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> is of God because of the wickedness of those that teach it: This seems to be the scope o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Christs Speech.</p>
+                     <p>3ly, Some do observe the Words may b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> rendred thus, according to the Original, <hi>what<g ref="char:EOLhyphen"/>soever they have bidden you observe, that observ<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> and do;</hi> the Original Verb being in the Aoris<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> which speaks of the time past.</p>
+                     <p>4ly, If this Text pleads for the hearing of any, it must be for the hearing of such as the Scribes and Pharisees were; now what they were Christ tells us in the same Chapter; <hi>The bind heavy Burthens upon others, and lay them on Mens Shoulders, but will not touch them with one of their fingers.</hi> v. 4. <hi>They shut the Kingdom of Heaven against others.</hi> v. 13. <hi>They devo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> Widows houses.</hi> v. 14. <hi>They are blind Guides,</hi>
+                        <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 15. <hi>They pay Tithes of Mint, Annis, and Cum<g ref="char:EOLhyphen"/>min, and omit the weightier matters of the Law Judgment, Mercy, and Faith.</hi> v. 23. <hi>Th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> made clean the outside of the Cup, but withi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                           <pb n="21" facs="tcp:152286:15"/>were full of Extortion and Excess.</hi> v. 25. Now <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> appeal to you whether such as these are to be heard and owned as the Ministers of Christ? And yet if the Text plead for the hearing of any, it's for the hearing of such.</p>
+                     <p>5ly, These are the men against which Christ did pronounce the greatest woes, and that de<g ref="char:EOLhyphen"/>servedly, as being very wicked in their Lives, guilty of sins of the first magnitude, and, as some have observed, committed the sin against the Holy Ghost, and their seeming Sanctity was made a Cloak for their Wickedness.</p>
+                     <p>6ly, Christ bid his Disciples to beware of the Leaven of the Pharisees, <hi>Mat.</hi> 16.6. there<g ref="char:EOLhyphen"/>fore doth not enjoin them to hear them. By Leaven is meant their corrupt and unsound Doctrines, as Christ expounds it <hi>v.</hi> 12. The Scribes and Pharisees as they were wicked in their Lives, so they were corrupt in their Judg<g ref="char:EOLhyphen"/>ments; they had got the Leprosie into their Heads, and under the Law such as had the Le<g ref="char:EOLhyphen"/>prosie in the Head were to be pronounced ut<g ref="char:EOLhyphen"/>terly unclean, and to be separated from the Congregation.</p>
+                     <p>7ly, But grant that these words of Christ do amount to a Command, to hear the Scribes and Pharisees, (though I rather incline to be<g ref="char:EOLhyphen"/>lieve they do not, for the Reasons already gi<g ref="char:EOLhyphen"/>ven)
+<pb n="22" facs="tcp:152286:16"/>yet no Argument can be drawn from hence for Christians ordinary attendance upon the publick Ministry, as it is now constituted; for the Jewish Church was a true Church of a Divine Constitution, and yet standing when Christ spake those words, and the Scribes and Pharisees, as some affirm, true Ministers of this Church, but it will be hard to prove that either the Church of <hi>England</hi> is of a Gospel Constitution, or that the Officers of this Church are such.</p>
+                     <p n="6">6. <hi>Obj.</hi> But is it warrantable to forsake the publick Assemblies because of Corruption in the Worship of God?</p>
+                     <p>
+                        <hi>Ans.</hi> 1st. That for which God did forsake his Temple, for that certainly it's warrantable for Gods People to separate themselves; but for what did God forsake his Temple? Was it not for corrupting his Worship?</p>
+                     <p>2ly, It is warrantable, yea, a Duty to obey the Commands of God, 2 <hi>Cor.</hi> 6.17. We are forbidden to touch the unclean thing. <hi>Hos.</hi> 4.15. The People are expresly forbidden to come unto <hi>Gilgal,</hi> or to go up unto <hi>Bethaven;</hi> why? those places were famous, <hi>Gilgal</hi> was a place famous for many things, there was that great
+<pb n="23" facs="tcp:152286:16"/>Circumcision after <hi>Israel</hi> came out of the Wil<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>erness; there was the first Passover that ever was kept in the Land of <hi>Canaan:</hi> And <hi>Betha<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>en</hi> was no other than <hi>Bethel,</hi> which signifies <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>he House of God, yet they must not come to <hi>
+                           <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ilgal,</hi> or go up to <hi>Bethaven;</hi> why so? be<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>use these places, though they were famous <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>rmerly, yet now they are become infamous. They were, as Mr. <hi>Burroughs</hi> hath observed, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>efore famous for the Worship of God, but <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ow become the primest places for Idolatry in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e whole Land: <hi>Bethel,</hi> the House of God, is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>w <hi>Bethaven,</hi> the House of Iniquity, <hi>Amos</hi>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 5. There is the same Prohibition again, <hi>Isa.</hi>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 2.11. <hi>Depart ye, depart ye, go ye out from <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ence, touch no unclean thing, go ye out of the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>idst of her, be ye clean that bear the Vessels of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> Lord.</hi> God would not that we should al<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>w of the least Corruption in Worship. The <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>imitive Christians would not throw a lit<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e Incense into the Fire to countenance an Idol. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                        <hi>Tertullian</hi>'s time it was accounted unlawful <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>r Christians to wear a Garland, because it <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>nformed them to Heathens: Christians must <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ke heed of Simbolising with the World.</p>
+                     <p>3ly, It is warrantable, yea a Duty for Chri<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ans to keep themselves pure, and to be unde<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ed in the way, <hi>Jam.</hi> 1.27. <hi>This is pure Reli<g ref="char:EOLhyphen"/>gion
+<pb n="24" facs="tcp:152286:17"/>and undefiled before God, for a man to keep himself unspotted from the World.</hi> Rev. 14.4. there is an high commendation given of those that keep themselves undefiled; such are pro<g ref="char:EOLhyphen"/>nounced Blessed, <hi>Psal.</hi> 119.1. But this we cannot do if we join with or allow of any im<g ref="char:EOLhyphen"/>purity in Divine Worship.</p>
+                     <p>4ly, If it be a Duty to worship God purely<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> and according to his own Institutions, then it's warrantable to divide from those places where his Worship is mixed and adulterated; but this surely is a Duty.</p>
+                     <p>5ly, We may not join in any act of Wor<g ref="char:EOLhyphen"/>ship in which we cannot hopefully expect th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> presence of God with us. Let me ask you the question: Can you go to Parish Assemblies and join in the Worship that is there celebrated i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Faith? Can you do it believingly? Can yo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> promise to your self the presence of God<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <hi>Whatsoever is not of Faith is sin.</hi> If a man woul<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> see his Face in the Water, he must look int<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> it when it is clear, not when it is muddy;<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> he that would see the face of God in his Ord<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>nance must keep to pure Ordinance.</p>
+                     <p n="7">7. <hi>Obj.</hi> But may I not be present with m<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Body though my heart be not present?</p>
+                     <pb n="25" facs="tcp:152286:17"/>
+                     <p>
+                        <hi>Ans.</hi> No: For that is a mocking of God; we are not to joinwith our Bodies in any act of Worship we cannot do with our Souls, for that is Hypocrisie; what is Hypocrisie but the ser<g ref="char:EOLhyphen"/>vice of the Lips, and distance of the Heart? This is to offer the Sacrifice of Fools; besides, this is a countenancing of a corrupt Worship, a touching the unclean thing.</p>
+                     <p n="8">8. <hi>Obj.</hi> But may some say, why should we scruple such things in point of Worship, as the People of God in former Generations never scrupled?</p>
+                     <p>
+                        <hi>Ans.</hi> To this I answer, that may be sinful now which was not sinful in Gods People in former Generations, though sinful in itself, yet not sinful to them, in regard we have more clear discoveries of Gospel-Light than in for<g ref="char:EOLhyphen"/>mer Generations; the Saints lie under clear Convictions of the purity of Gods Worship, the purity of Divine Worship is more discover<g ref="char:EOLhyphen"/>ed in this Age than in former ages; now the Lord hath shown to his People the form of his House, the fashion thereof, the goings out thereof, and the comings in thereof, that therefore which was not sin to them may be sin to us.</p>
+                     <pb n="26" facs="tcp:152286:18"/>
+                     <p>2ly, We may not make the practice of the Saints in any Age our Rule, but the Word of God: The best men in the World are but Rules regulated, not regulating. We must on<g ref="char:EOLhyphen"/>ly set our Watch, (saith one) according to theirs, as they set theirs according to the Sun. And if the Saints in former Ages did err in matters of Worship, is it warrantable for us to do so? It is recorded of Mr. <hi>Greenham,</hi> the Bishop of <hi>Ely</hi> (in whose Diocess he lived) seeking to draw him to Conformity, objected thus unto him, <hi>Why will not you yield? Luther</hi> approved of these things, are you wiser than he? His so<g ref="char:EOLhyphen"/>ber and gracious Answer was, I reverence more the revealed Will of God, in teaching that worthy Instrument of God, Mr. <hi>Luther,</hi> so many necessary things to Salvation, than I search into his secret Will why he kept back from his knowledge other things of less Im<g ref="char:EOLhyphen"/>portance.</p>
+                     <p n="9">9. <hi>Obj.</hi> But may we not yield in some things for Peace-sake?</p>
+                     <p>
+                        <hi>Ans.</hi> I answer, Peace is an excellent thing, <hi>Dulce nomen Pacis,</hi> the very name of it is sweet, and it could be wished there were more Peace and Unity amongst those that profess
+<pb n="27" facs="tcp:152286:18"/>Christianity; but we must not for peace sake <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>linquish the truth; peace is excellent, but it is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>hen it is joyned with truth; when peace and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>uth are in conjunction, this is sweet, this is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>cellent indeed, but better have no peace <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>an to have it with the loss of truth. If we <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>rchase peace with the loss of the least truth, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>epurchase it at too dear a rate, better have <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> peace than to have it in a sinful way: A <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>st War is better than an unjust Peace.</p>
+                     <p n="2">2dly. Though it may be the way to pur<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ase the outward Peace, yet may it not be <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e way to lose your inward Peace? and you <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ill be great losers by such an exchange, for <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> much as peace with the world can never <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>untervail the loss of peace with God. Peace <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Conscience is infinitely to be preferred be<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e peace with Men, better break with all the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>orld than to break with God <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>d your own Conscience.
+<note place="margin">
+                           <hi>Nihil praestan<g ref="char:EOLhyphen"/>tius pace bonae Conscientiae</hi> Ig<g ref="char:EOLhyphen"/>natius.</note>
+                     </p>
+                     <p n="3">3dly, You that make this <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>lea for your Conformity, may <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ot have your end answered; you may meet <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ith a disappointment, saith Christ, <hi>Mar.</hi> 8.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>5. <hi>Whosoever will save his life shall lose it.</hi> God doth oftentimes cross such in their De<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>gn, so that hereby they lose peace with God <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>d the world too; for a little conformity (as
+<pb n="28" facs="tcp:152286:19"/>they think) will not be look't upon as a suf<g ref="char:EOLhyphen"/>ficient and valuable consideration for such a purchase; if you be not thorow pace't with them, and come up to the same pitch in all things, no peace to be expected long with them. Rather therefore let us consider that to keep our peace with God is the way to obtain<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> peace with Men, yea, with Enemies, <hi>If<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> Mans ways please God, he maketh his Enemie<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> to be at peace with him,</hi> Prov. 16.7. <hi>Whoso<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>ever, saith Christ, shall lose his life for my sak<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> and the Gospel shall save it,</hi> Mark 8.35.</p>
+                     <p n="2">2d <hi>Use.</hi> Let this then be an admonition t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> all that fear the Lord, to take heed of the lea<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> mixture in the Worship of God, not to di<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> vide from, but to keep close to the purity o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Divine Worship; yield not to the least Corrup<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> tion in Worship under what pretence soever<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> As God (saith one of the Antients) is to b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> admired in the least of his Creatures, as we<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> as in the greatest, so Christians should tak<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> heed of small things as well as great in th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> matters of Worship.</p>
+                     <p>The Idolatrous Jews are not only rebuke<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> and threatned for eating of Swines Flesh co<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>trary to the Law but also that the Broth wa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> found in their Vessels, <hi>Isa.</hi> 65.4. God is pur<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <pb n="29" facs="tcp:152286:19"/>and his Worship is to be pure like himself. Gods Worship is called his fear, now the fear of God is clean, <hi>Psal.</hi> 19. It's a good speech of Mr. <hi>Burough,</hi> that the Holiness of a Duty will <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ot bear us out in the miscarriages of it. Think <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ot that because your Duties are Good and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>oly in themselves, you may venture upon <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ixtures in Gods Worship.</p>
+                     <p>
+                        <hi>Direct.</hi> 2dly, But what must we do that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e may keep to the purity of Gods Worship <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> these days, wherein his Worship is so much <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>orrupted? 1. Hold fast this principle, ttha <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> matters of Worship we are not to look on<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> to what is forbidden, but to what is Com<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>anded. The not holding firm this Principle <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> the ground of many great miscarriages in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Worship of God; many think that be<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>use such and such things are not forbidden, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>at therefore they may be allowed of in Di<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ne Worship, but this is a grand mistake, for <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> things in Divine Worship must have a Warrant out of Gods Word; it's not enough <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ey are not forbidden, but they must be Commanded, either expresly, or by some con<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>quence drawn from some Command, as <hi>Ter<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>lion</hi> saith about the Crowning of the Sol<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>er with Bayes, if it be said it's lawful, because
+<pb n="30" facs="tcp:152286:20"/>the Scripture doth not forbid it, it may be e<g ref="char:EOLhyphen"/>qually Retorted, it's therefore unlawful be<g ref="char:EOLhyphen"/>cause the Scripture doth not command it. <hi>Na<g ref="char:EOLhyphen"/>dab</hi> and <hi>Abihu,</hi> they were smitten for offering of strange fire, they might have objected, and said, where was other fire forbidden? but it was not commanded; they offered strange fire before the Lord, which be commanded them not, <hi>And there went out fire from the Lord and devoured them,</hi> Lev. 10.1, 2. for this Cause they were smitten, that they did not keep punctually to Gods Command. Hold fast this principle Christian, if thou wouldst keep close to the purity of Divine Worship.</p>
+                     <p n="2">2dly. Do as God doth; God stands upon little things in the matters of his Worship, <hi>Rev.</hi> 11.1, 2. God mensured the Temple and Altar, and them that Worshipped there<g ref="char:EOLhyphen"/>in, to shew (saith one) his utmost exactness a<g ref="char:EOLhyphen"/>bout the matters of his Worship and Con<g ref="char:EOLhyphen"/>cernments of his People; imitate God herein, make Conscience of the least things, admit, allow not of the least miscarriage or Corrupti<g ref="char:EOLhyphen"/>on in Worship. As <hi>Moses</hi> when he was to lead the <hi>Israelites</hi> out of <hi>Egypt,</hi> would no<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> leave a hoof behind him, so leave nothing un<g ref="char:EOLhyphen"/>done in matters of Divine Worship which God hath Commanded, but admit of nothing
+<pb n="31" facs="tcp:152286:20"/>which he hath not Commanded, go not a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>airs breadth from the Rule be very exact and precise in matters of Worship.</p>
+                     <p n="3">3dly, Get much of the fear of God into your Hearts, let that Rule in you; the more the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ear of God is prevailing in you, the more <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ender you will be of the Worship of God; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>h! maintain awful apprehensions of God, <hi>Psal.</hi> 68.35. God is terrible out of his holy <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>lace. Divine Worship is called the fear of God, in regard of that fear and awe of God <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> saith one) that should be upon men when <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>hey are in Divine Duties, <hi>Gen.</hi> 28.17. When <hi>
+                           <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>acob</hi> awaked from his vision, he said he was <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>fraid, and said, how dreadful is this place; it is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>o other but the House of God and Gate of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>eaven; <hi>Bernard</hi> descants very sweetly upon <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>his, <hi>Terribilis plane locus &amp; Dignus omni re<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>erentia:</hi> A dreadful place surely, and wor<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>hy of all Reverence, not meaning the stone <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>alls, but the presence of God, in the assem<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ly where the faithful meet, the Angels fre<g ref="char:EOLhyphen"/>quent, and God himself dwelleth.</p>
+                     <p>4ly, Study well this Text; here you shall <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ee how severe God is against those that will <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>are to Corrupt his Worship, that swear by <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>he Lord, and swear by <hi>Malcham:</hi> what a se<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ere, dreadful sentence is pronounced against
+<pb n="32" facs="tcp:152286:21"/>them? they are put into the black Roll to be destroyed. And study that Text well, <hi>Ezek.</hi> 43.8. and study the second Commandment, where all Corruption in the Worship of God is forbidden; there you will find that the Lord your God is a jealous God, and will vi<g ref="char:EOLhyphen"/>sit this Iniquity unto the third and fourth Ge<g ref="char:EOLhyphen"/>neration.</p>
+                     <p>5ly, Look upon the Worship of God as a great matter; the Lord complains of <hi>Ephraim,</hi> that he had written to him the great things of his Law, but they were accounted as a strange thing, <hi>Hos.</hi> 8.12. Divine Worship is one of the great things of Gods Law, and should not therefore be accounted either as a little or strange thing by us. God looks upon it as a great matter, and shall we account it as a little thing? It is a good expression of one, that to worship God aright, and to walk before him in uprightness, are the two Poles upon which the whole body of a heavenly Life is turned; and indeed there is nothing that speaks a man more a Christian than this, <hi>Phil.</hi> 3.3.</p>
+                     <p>6ly, Consider not what others do in matters of Worship, but what God hath commanded to be done; make the Word of God and not the Practice of men thy Rule, <hi>Deut.</hi> 12.30. <hi>Take heed to thy self that thou be not snared by
+<pb n="33" facs="tcp:152286:21"/>following them, and that thou enquire not after their Gods, saying, how did these Nations serve their Gods? even so will I do likewise.</hi> The Peo<g ref="char:EOLhyphen"/>ple were forbidden to enquire how God had <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>estroyed those Nations from before them that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>erved their Gods; and observe in the 32. <hi>v. What thing soever I command you, observe to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>o it, thou shalt not add thereto, or diminish <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>om it.</hi> True Obedience is a readiness to do <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>s we are bidden; we are apt to judge that a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>uty which most do, not which God com<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ands; but we must, if we will do our Duty, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>o what God commands, without adding or di<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>inishing. Some observe that expression of <hi>
+                           <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ve, Gen.</hi> 3.5. where she said, that God had <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>id they should not eat of it, nor touch it, lest <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ey die.
+<note place="margin">
+                           <hi>Nihil ve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>cau<g ref="char:EOLhyphen"/>sa boni adden<g ref="char:EOLhyphen"/>dum est praecep<g ref="char:EOLhyphen"/>to.</hi> Amb.</note> We do not read that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>od forbad them to touch it, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>et it's thought this was added <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>y <hi>Eve</hi> for cautions sake, as if <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>he were so careful to keep Gods <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ommand about Eating, that she added, they <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ust not so much as touch it; whence an An<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ent gathereth, that nothing, though it be <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>or a good end, is to be added to Gods Pre<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>epts.</p>
+                     <p>Lastly, Contemplate much the holiness of God. God is originally, gloriously, transcen<g ref="char:EOLhyphen"/>dently
+<pb n="34" facs="tcp:152286:22"/>and perfectly holy; and as God is,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> must his Worship be, he will be worshipped i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> the Beauties of Holiness, not in the blackness o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Iniquity, 1 <hi>Chron.</hi> 16.29. A pure and hol<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Worship do suit best with the holy God. A<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> you therefore to whom God hath shewn th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> form of his House, and the fashion thereof, th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> goings out thereof, and the comings in there<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> of, keep close to the purity of his Worship.</p>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:152286:22"/>
+                  <p>THE Great and Necessary DUTY OF Mutual Exhortation <hi>Opened</hi> and <hi>Applied:</hi> From HEBREWS III. XIII. WHEREIN The Nature of the DUTY is opened in the several Branches thereof, the evil of its neglect is shewn, and some Motives laid down to press Christians to a more vigorous practice of it; the Hindrances to this Du<g ref="char:EOLhyphen"/>ty are removed, and several helps given for a right performance of it.</p>
+                  <p>By an unworthy Servant of Jesus Christ.</p>
+                  <q>
+                     <p>
+                        <bibl>
+                           <hi>Mal. 3.16.</hi>
+                        </bibl> Then they that feared the Lord spake often one to another.</p>
+                  </q>
+                  <q>
+                     <p>
+                        <bibl>
+                           <hi>Ep. Jud. 20.</hi>
+                        </bibl> But ye beloved building up your selves in your most holy Faith.</p>
+                  </q>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:152286:23"/>
+                  <pb n="37" facs="tcp:152286:23"/>
+                  <head>THE Great and necessary DUTY OF Mutual Exhortation <hi>Opened</hi> and <hi>Applied:</hi> FROM</head>
+                  <epigraph>
+                     <q>
+                        <bibl>Heb. 3.13.</bibl>
+                        <hi>But exhort one another daily while it is called to day, lest any of you be hardened through the deceitfulness of Sin.</hi>
+                     </q>
+                  </epigraph>
+                  <p>THE great scope of the Author of this E<g ref="char:EOLhyphen"/>pistle (whether the Apostle <hi>Paul</hi> or some other) is to exhort these believing Hebrews to stedfastness in the Faith, perseverance in Grace and Holiness, that it might appear <hi>they recei<g ref="char:EOLhyphen"/>ved not the Grace of God in vain.</hi>
+                  </p>
+                  <p>In order to which he doth propose to them the Example of Christ, <hi>v.</hi> 2. who was faith<g ref="char:EOLhyphen"/>ful to him that appointed him. Christ was faith<g ref="char:EOLhyphen"/>ful to all his betrustments. <hi>Moses</hi> was faithful as a Servant, but Christ as a Son, <hi>v.</hi> 5, 6. whose House we are if we hold fast the confidence and rejoycing of the Hope firm unto the end.</p>
+                  <pb n="38" facs="tcp:152286:24"/>
+                  <p>And to discourage and deterr them from A<g ref="char:EOLhyphen"/>postasie, he sets before them the Evil Example of the <hi>Israelites,</hi> how they tempted God, and through Unbelief departed from him, against whom God <hi>sware in his wrath, they should not enter into his rest. v.</hi> 11. Hereupon he grounds this cautionary admonition, <hi>viz. Take heed Brethren, lest there be in any of you an evil heart of Unbelief, in departing from the living God.</hi> A serious and seasonable Caution, <hi>take heed,</hi> see to it; the word in the <hi>Greek</hi> signifies not only to look with the Eye, but with the heart also; exercise your greatest care and diligence about this.</p>
+                  <p>And as a sovereign preservative against this evil of Apostasie, he urgeth the practice of this important Duty in the words of the Text, <hi>But exhort one another,</hi> &amp;c.</p>
+                  <p>This adversative particle <hi>[but]</hi> shews the An<g ref="char:EOLhyphen"/>tithesis of these words to the former, <hi>Take heed of an evil Heart of Unbelief,</hi> &amp;c. <hi>But exhort one another.</hi>
+                  </p>
+                  <p>In the Words these three things are observ<g ref="char:EOLhyphen"/>able.</p>
+                  <p n="1">1. The Duty enjoined, <hi>exhort one another.</hi>
+                  </p>
+                  <p n="2">2. The frequency of this Duty, <hi>daily, while it is called to day;</hi> do it presently, neglect, de<g ref="char:EOLhyphen"/>lay not, it's a duty that admits not of delays,
+<pb n="39" facs="tcp:152286:24"/>it must be speedily, presently done, <hi>while it is called to day,</hi> &amp;c.</p>
+                  <p n="3">3. The Motive to this duty, taken <hi>ab in<g ref="char:EOLhyphen"/>commodo,</hi> from the great inconvenience and mischief that may and will follow the neglect of it, <hi>lest any of you be hardened through the de<g ref="char:EOLhyphen"/>ceitfulness of Sin.</hi>
+                  </p>
+                  <p>Where we have two evil effects of sin.
+<list>
+                        <item>1. <hi>Hardening.</hi>
+                        </item>
+                        <item>2. <hi>Deceiving.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p>Sin hath never a good property in it, it is <hi>malum in se,</hi> it's evil, and only evil, and all the effects of Sin are evil, no good fruit can grow upon this bad Tree, <hi>&amp;c.</hi>
+                  </p>
+                  <p>From the Duty here enjoined, which I chiefly design to speak to, there is this Do<g ref="char:EOLhyphen"/>ctrine.</p>
+                  <p>
+                     <hi>Doct.</hi> That it is the Duty of Christians to exhort one another. Or thus, Mutual Exhor<g ref="char:EOLhyphen"/>tation is a great Christian Duty, <hi>Heb.</hi> 10.24. <hi>Let us consider one another to provoke unto Love and good works.</hi> Jud. 20. <hi>And ye belo<g ref="char:EOLhyphen"/>ved building up your selves in your most holy Faith.</hi> It's not the Ministers Duty only, but Christians are to exhort and build up one ano<g ref="char:EOLhyphen"/>ther; and in <hi>Mal.</hi> 3.16. it's said, <hi>They that feared the Lord spake often one to another,</hi> of
+<pb n="40" facs="tcp:152286:25"/>things no doubt pertaining to mutual edificati<g ref="char:EOLhyphen"/>on, they spake (as it's said of Christ, <hi>Acts</hi> 1.3.) of the things pertaining to the Kingdom of God. This is a duty at all times seasonable, but especially in evil times.</p>
+                  <p>In the prosecution of this Doct.</p>
+                  <p n="1">1. I shall open the nature of this duty.</p>
+                  <p n="2">2. Give the reasons of it.</p>
+                  <p n="1">1. What doth this duty of mutual exhor<g ref="char:EOLhyphen"/>tation denote?</p>
+                  <p n="1">1. A quickning and stirring up one ano<g ref="char:EOLhyphen"/>ther to all good and holy duties, a provoking to love and good works, a stirring up the Gra<g ref="char:EOLhyphen"/>ces of one another, 2 <hi>Tim.</hi> 1.6. A blowing up every spark into a flame to sharpen and ex<g ref="char:EOLhyphen"/>timulate, <hi>Prov.</hi> 27.17. <hi>Iron sharpeneth Iron, so a man sharpeneth the Countenance of his Friend;</hi> Christians should set an edge upon each others affections, and raise and rouze up the dull spirits, 2 <hi>Pet.</hi> 1.13. This is the great use and end of Christian Communion, one Christian will help to heat another, a single Coal soon dies, but many live Coals put to<g ref="char:EOLhyphen"/>gether will keep life in one another. One Christian by good discourse drops Oil upon another, that makes the lamp of his Grace to shine the brighter (saith one,) but Christians in these daies instead of quickning, how do
+<pb n="41" facs="tcp:152286:25"/>they deaden each other, dishearten and dis<g ref="char:EOLhyphen"/>courage one another; instead of provoking to love, they provoke one another to Wrath, and instead of provoking one another to good Works, they provoke to evil Works; but this is a great perversion of this duty.</p>
+                  <p n="2">2. To comfort one another, the word in the Original <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>signifies to comfort, as to exhort, to pour Oyl and Wine into woun<g ref="char:EOLhyphen"/>ded and broken Spirits, to be mutual comfor<g ref="char:EOLhyphen"/>ters, to drop Oil into one anothers wounds, 2 <hi>Cor.</hi> 1.4. <hi>Who comforteth us in all our Tribu<g ref="char:EOLhyphen"/>lations, that we may be able to comfort them that are in any trouble by the comfort where<g ref="char:EOLhyphen"/>with we our selves are comforted of God.</hi> What<g ref="char:EOLhyphen"/>soever comfort we have, it's given for the good of others, we are debtors of it to others, one then ought to comfort another; whatso<g ref="char:EOLhyphen"/>ever light the Coelestial Bodies, the Moon and the Stars have, they bestow it upon these inferiour Bodies, they have their lights from the Sun, and they reflect it again upon the Creatures below. So Christians should be communicative of their Comforts and experi<g ref="char:EOLhyphen"/>ences, they ought to be mutual Comforters, and so much this duty doth import.</p>
+                  <p n="3">3. To admonish, it denotes Christian re<g ref="char:EOLhyphen"/>proof and admonition not to suffer sin to lie
+<pb n="42" facs="tcp:152286:26"/>upon one another, <hi>Gal.</hi> 6.1. <hi>Brethren if a Man be overtaken in a fault, ye which are spiri<g ref="char:EOLhyphen"/>tual restore such an one in the spirit of meekness</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> put him into joynt again, <hi>Rom.</hi> 15.14. The <hi>Romans</hi> were commended for this that they were filled with all knowledge, able to admonish one another. <hi>Col.</hi> 3.16. <hi>Teaching and admonishing one another, Ephes.</hi> 5.11. We are to have no fellowship with the unfruitful Works of Darkness, but rather reprove them and to dehort one another from evil.</p>
+                  <p n="4">4. A holy care and watchfulness over one another, <hi>Heb.</hi> 13.17. It's the duty of Mini<g ref="char:EOLhyphen"/>sters in a special manner, therefore they are called Watchmen, but is not their duty solely; but Christians are to watch over one another, thou must not say as <hi>Cain</hi> said, am I my Bro<g ref="char:EOLhyphen"/>thers Keeper? <hi>Cain</hi> denied to be his Brothers Keeper, but thou ought not, there is a care and vigilance that Christians are to exercise one toward another.</p>
+                  <p n="5">5. Praying for one another mutual; exhor<g ref="char:EOLhyphen"/>tation denotes mutual praying, our prayers are not for a private concern, but to be poured out for others, we should bear the conditions of o<g ref="char:EOLhyphen"/>thers upon our hearts in all our approaches to the Throne of Grace, and so much the word signifies to be Advocates for one another. <hi>Jude</hi>
+                     <pb n="43" facs="tcp:152286:26"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>0. <hi>Praying in the Holy Ghost,</hi> Ephes. 6.18. <hi>Praying alwaies with all Prayer and Supplica<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>m in the Spirit, and watching thereunto with <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ll perseverance and supplication for all Saints.</hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ames 5.16. <hi>Pray one for another.</hi> This is the Churches Treasure, the common stock of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>rayers; by this means the members of Christs Body have Communion together, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ough at a distance; this is a great duty, the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>eak need the Prayers of the strong, and the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ong need the Prayers of the weak; it's a du<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> incumbent upon all, and needful for all, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ea, for the strong and most eminent, 1 <hi>Cor.</hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>2.21. <hi>The head cannot say to the feet,</hi> &amp;c. The Apostle <hi>Paul</hi> he earnestly begs the Pray<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>s of the <hi>Thessalonians,</hi> 1 <hi>Thess.</hi> 5.17. So <hi>Rom.</hi> 5.30. When the Prayers of Saints are twi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ed together, they make such a strong Cord <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> cannot be broken; hereby Christians are <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>bliged to each other: Thus I have shewen you <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e import of this duty in these 5 particulars.</p>
+                  <p n="2">2. But why is mutual exhortation so great Christian Duty?</p>
+                  <p n="1">1. Because it's Commanded. God requires <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, and does expect our obedience to his Com<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>and: it's Commanded in the Text, and in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>any other Scriptures already mentioned for <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e proof of the Doctrine; so that it's necessa<g ref="char:EOLhyphen"/>ry,
+<pb n="44" facs="tcp:152286:27"/>
+                     <hi>necessitate praecepti,</hi> in regard of his Com<g ref="char:EOLhyphen"/>mand.</p>
+                  <p n="2">2. But no man is born for himself, every<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> man should be a publick good, not to care for his own things, but for the things of others, 1 <hi>Cor.</hi> 10.24. <hi>Let no man seek his own, bu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> every man anothers wealth.</hi> Christians should b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> of publick Spirits, seeking the good of others<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <hi>Gal.</hi> 6.8. taking all opportunities to do good<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> and this is to answer the end of our Creation<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> we are neither born nor born again for ou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> selves.</p>
+                  <p n="3">3. Because it is the end of the Communion o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Saints; next to Gods Glory this is the main en<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> of the Communion of Saints to edify one a<g ref="char:EOLhyphen"/>nother, and where this is neglected, the end is not answered, God hath therefore called us in<g ref="char:EOLhyphen"/>to the fellowship of his Son Jesus Christ, tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> we should mutually promote the good an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> benefit of each other, 1 <hi>Cor.</hi> 1.9, 10. And whe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Christians do carry on this end, it makes their Communion very sweet and pleasant, <hi>Psal.</hi> 133.1.2. Behold how good and how plea<g ref="char:EOLhyphen"/>sant it is for Brethren to dwell together in u<g ref="char:EOLhyphen"/>nity, it's like precious ointment upon th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> head that ran down upon the beard, even <hi>Aa<g ref="char:EOLhyphen"/>rons</hi> beard, that went down to the skirts of hi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Garment. The multitude of Stars joyned i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <pb n="45" facs="tcp:152286:27"/>Heaven, make the <hi>Gallaxia,</hi> or milky way, so a company of Christians meeting in one make a glorious light indeed, and such a lustre (saith one) as will dazle the Eyes of the wicked world, and when this great end of the Com<g ref="char:EOLhyphen"/>munion of Saints is promoted, it makes them beautiful as <hi>Tirzah,</hi> comely as <hi>Jerusalem,</hi> ter<g ref="char:EOLhyphen"/>rible as an Army with Banners, <hi>Cant.</hi> 6.4.</p>
+                  <p n="4">4. The relation that is amongst Christians <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ne to another, doth evince this to be a great <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>uty; they are members of one and the same <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ody, <hi>Ephes.</hi> 5.30. And shall not Members <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>eek the good of one another, 1 <hi>Cor.</hi> 12.12, 13. <hi>Rom.</hi> 12.4, 5. As we are all of the body, so we should all serve the body, as members in the natural body have all their different use, they <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>re all serviceable to the body, so should all the members of Christs mystical body; be <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hey should as Bees bring all their Honey (saith one) to the common Hive.</p>
+                  <p n="5">5. The common estate and condition of Christians here in the world, doth evidence this to be a duty, in regard of the many temp<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ations, and continual solicitations to evil, while here in the body, and by reason of in<g ref="char:EOLhyphen"/>dwelling corruption we are easily tempted <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>o evil, soon drawn away of our own lusts, and inticed, <hi>Jam,</hi> 1.14. Every man, saith the
+<pb n="46" facs="tcp:152286:28"/>Apostle, he takes in the godly too; a Christian is a mixt Creature made up of flesh and Spi<g ref="char:EOLhyphen"/>rit, and we have corruption within, and we meet with temptations without; the grand ad<g ref="char:EOLhyphen"/>versary of our souls goeth about like a roaring Lion seeking whom he may devour, 1 <hi>Pet.</hi> 5.7. We meet with many hindrances and diver<g ref="char:EOLhyphen"/>sions from our duties; this evil world where we have our commoration, it's a dulling and deadning world, it takes off the Chariot wheels of our Souls &amp; makes us drive heavily in the ways of God. Our Lord Jesus doth intimate the great and continual danger Christians are in by being in the world, <hi>John</hi> 17.11. But those are in the world. To say they were in the world, was to say (saith one) they were in the midst of the Sea, under the power of all winds, and tempests, without any Haven; to be in the world, implies those 2 things; to be in a place of Wickedness, where the Godly have daily temptations to sin; and are dayly exposed to troubles; it is therefore a very needful duty for the Godly to be exhor<g ref="char:EOLhyphen"/>ting one another to good, seeing they have so many temptations to evil.</p>
+                  <p>And so much for the reasons of the Do<g ref="char:EOLhyphen"/>ctrine.</p>
+                  <div type="part">
+                     <pb n="47" facs="tcp:152286:28"/>
+                     <head>For APPLICATION;</head>
+                     <p n="1">1. <hi>Use.</hi> If this be so, that mutual Exhortati<g ref="char:EOLhyphen"/>on is a great Christian Duty, then surely the neglect of it is a great Evil, and much to be deplored; the evil is the greater and more grie<g ref="char:EOLhyphen"/>vous because so general, it's an Epidemical E<g ref="char:EOLhyphen"/>vil. Oh, that Christians should be so unfruit<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ul and unprofitable! That they should so lit<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e study the good of one another! There are many evils in the Womb of this Evil, as,</p>
+                     <p n="1">1. This is one great cause of Barrenness a<g ref="char:EOLhyphen"/>mongst Christians, <hi>Hos.</hi> 10.1. <hi>Israel</hi> is called an <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>mpty Vine, because he did bring forth fruit <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>o himself; a selfish Spirit is a barren Spirit. The Apostle <hi>Paul</hi> bewails this, <hi>Phil.</hi> 2.21. <hi>For all seek their own, not the things which be <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>esus Christs:</hi> And is not such a Spirit now <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>redominant? And no wonder then that there <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> so much barrenness amongst us: And is it not <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>n evil for Christians to be barren? Under the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>aw barreness was a curse, and sure to be barren <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>nder the Gospel is to be nigh to cursing, <hi>Heb.</hi>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>6.7, 8. <hi>For the Earth which drinketh in the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ain that cometh oft upon it, and bringeth forth Herbs meet for them by whom it is dressed, recei<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>eth Blessing from God; but that which beareth
+<pb n="48" facs="tcp:152286:29"/>Thorns and Briers is rejected, and is nigh unto cursing, whose end is to be burned.</hi> Gods Peo<g ref="char:EOLhyphen"/>ple are called Trees of Righteousness, and of Gods own Planting, <hi>Isa.</hi> 61.3. And for trees of Righteousness to be barren, this is sad: What! no better fruit in the Lords Vineyard than in the Wilderness? The Spouse of Christ is compared to a Flock of Sheep, <hi>whereof eve<g ref="char:EOLhyphen"/>ry one bear twins, and none is barren amongst them.</hi> Cant. 4.2. but how unlike are we to Christs Spouse in this.</p>
+                     <p n="2">2. Hence it is that there is such a declension of the power of Godliness among us; we re<g ref="char:EOLhyphen"/>tain the form, but little of the power, the life and power of Religion is much decayed, through a neglect of this Duty; though we have the leaves of Profession upon us, yet we have not the fruit of a Gospel-Conversation, <hi>Col.</hi> 3.16. Christians teaching and admonish<g ref="char:EOLhyphen"/>ing one another is an effectual means to have the word of God dwell richly in us, which makes us rich in holiness, and fruitful in eve<g ref="char:EOLhyphen"/>ry good work.</p>
+                     <p n="3">3. This is one great cause of the many mis<g ref="char:EOLhyphen"/>carriages among Christians by reason of which many are stumbled, and many hardened in their evil ways, and God's name greatly dis<g ref="char:EOLhyphen"/>honoured, the Spirit grieved, and the infinite
+<pb n="49" facs="tcp:152286:29"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ove of Christ wounded; possibly if thou hadst <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ischarged thy Duty (Christian) to thy Bro<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>her, he had not so miscarried, the sins he <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ath falln into might have been prevented.</p>
+                     <p n="4">4. This is the great cause of the feebleness, weakness and unsettledness among us, that ma<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>y are so unsettled, so weak and so soon shaken <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> mind, and not more rooted and built up in Christ <hi>Col.</hi> 2.6, 7. When Christians walk in Christ, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>hat is, live in the practice of all the Duties of Godliness enjoined them by Christ, then they are <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>oted and built up in him: Mutual Exhor<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>tion is the <hi>Jachin</hi> and the <hi>Boaz,</hi> the strength <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>nd the establishment of Christians, and the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>eglect of it is the cause that so many fall from <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>heir own Stedfastness.</p>
+                     <p n="5">5. The neglect of this gives Satan great<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>dvantage to plunge many into great fears, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>oubts, and despondencies; were Christians <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>iligent to discharge their Duty, these fears <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>nd dejections which have sadly oppressed and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>nk the Spirits of many, might have been pre<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>nted. We read in the Gospel, that while the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>en slept the Enemy came and sowed his tares, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>o while Christians sleep and are neglective of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>heir Duty to one another, Satan got advan<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>age to sow his Tares, and to inject fears into <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>oor weak Christians, and to plunge them in<g ref="char:EOLhyphen"/>to
+<pb n="50" facs="tcp:152286:30"/>a Labrynth of doubts and despondencies. 2 <hi>Cor.</hi> 2.11. The Apostle adviseth the <hi>Corin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> thians</hi> to confirm their Love to the incestuo us <hi>Corinthian,</hi> who was humbled for his Sin, lest Satan get advantage: The not discharging our duty in exhorting one another, puts an advantage into the hands of Satan against us; our security is his opportunity; as the Flie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> will never resort to the Hony when it's hot, but when it's cold, so when our Spirits are heated and quickened by mutual Exhortation, then Satan will not come near us with his temptations; but when our Spirits are low and dead, then Beelzebub the god of the Flies will resort to us, and endeavour to plunge us into fears and despondencies.</p>
+                     <p n="6">6. The Non-performance of this Duty is the cause that many are hardened through the deceitfulness of sin; this evil effect doth pro<g ref="char:EOLhyphen"/>ceed from a neglect of it, therefore it's urged in the Text, <hi>Exhort one another, lest any of you,</hi> &amp;c. This sin hardens not only the wicked but the Godly; to be hardened is not only the sin of a wicked man, but may be the sin of a godly man; a strange crustiness and hardness may grow upon their hearts.</p>
+                     <p>Thus you see the many evils that the omissi<g ref="char:EOLhyphen"/>on of this Duty doth produce, and it's the great
+<pb n="51" facs="tcp:152286:30"/>cause that many are hardened through the deceitfulness of sin.</p>
+                     <p n="2">2. <hi>Use.</hi> Of Exhortation.</p>
+                     <p>Is it thus that mutual Exhortation is a great Duty incumbent upon Christians? then put it into practice, be active and abundant in this great Christian Duty, be exhorted to exhort one another, to consider one another, to pro<g ref="char:EOLhyphen"/>voke unto love and good works; study one a<g ref="char:EOLhyphen"/>nother; Christians should study one anothers cases and distempers, and be solicitous of their cure; the <hi>Romans</hi> were greatly commended for this, <hi>Rom.</hi> 14.15.</p>
+                     <p>Let us do it daily, continually, there must be no intermission, nor remission of this Duty. Christians, put not off the Practice of it, 'tis now a very seasonable Duty in these evil days. The time of <hi>Malachi</hi>'s Prophesying was a ve<g ref="char:EOLhyphen"/>ry evil time, as it appears <hi>Chap.</hi> 3.15. The proud were called happy, and yet in the 16. <hi>v.</hi> it is said, <hi>then they that feared the Lord spake often one to another:</hi> They did not omit their Duty because the days were evil, no, but were more frequent in it, for they spake often one to another; the worse the times are the better we should be, and this is the way to make the times better. The day of Christ is
+<pb n="52" facs="tcp:152286:31"/>approaching, <hi>Heb.</hi> 10.25. <hi>Not forsaking the assembling of your selves together, but exhorting one another, and so much the rather as you see the day approaching,</hi> the day of Christ ap<g ref="char:EOLhyphen"/>pearance, the day of judgment, the Audit day, when we must be called to a strict ac<g ref="char:EOLhyphen"/>count, how we have discharged our duties to God and one another; the appropinquation of the day of Christ should quicken and awaken us to our Duty. For the enforcing of this Ex<g ref="char:EOLhyphen"/>hortation I desire you to consider these follow<g ref="char:EOLhyphen"/>ing particulars.</p>
+                     <p n="1">1. Consider it's the only way to keep our selves pure from other mens sins, as the Apo<g ref="char:EOLhyphen"/>stle exhorts <hi>Timothy,</hi> 1 <hi>Tim.</hi> 5.22. We must not only give an account of our own sins, but of the sins of others that have been committed through a neglect of our Duty to them: One prayed to be delivered from his other mens sins. We contract much relative Guilt by bearing with, and indulging one another in sin, <hi>Lev.</hi> 19.17. <hi>Thou shalt not hate thy Bro<g ref="char:EOLhyphen"/>ther in thy heart, thou shalt in any wise rebuke thy Neighbour, and not suffer sin upon him.</hi> Some render the words thus, <hi>Thou shalt not lift up his sin upon him,</hi> or display it as a Banner to his disgrace. Our Translators render it thus, <hi>Thou shalt not suffer sin upon him.</hi> Sin is so hate<g ref="char:EOLhyphen"/>ful
+<pb n="53" facs="tcp:152286:31"/>a Viper as we should club it down, and stub it up wherever we find it. Wouldst thou not contract the Guilt of other mens sins upon thee? Then discharge this Duty with all faithfulness towards them.</p>
+                     <p n="2">2. Consider it's an effectual means to keep one another awake in these sleeping times; this is surely a slumbering Age, now the wise Virgins as well as the foolish are slumbering and sleeping, and though God is jogging us by his Providences, and calling aloud to us by his terrible Dispensations, <hi>awake thou that sleepest;</hi> yet we say with the sluggard, <hi>Yet a little sleep, a little slumber, a little folding of the hands together, Prov.</hi> 6.9, 10. A good and effectual means to keep Christians awake is to be quickening and awakening one another to their duty; in the sweating sickness they that were kept awake escaped; but it was deadly to them that were suffered to sleep, to sleep now may be very dangerous if not deadly to thee, thy sleep may prove the sleep of death.</p>
+                     <p n="3">3. Consider much good may hereby be procured to our selves and others, and much evil prevented. 1. Hereby our own good may be much promoted, and words spoken in sea<g ref="char:EOLhyphen"/>son how good are they, how forcible are right words, thereby the weak may be strengthen<g ref="char:EOLhyphen"/>ed,
+<pb n="54" facs="tcp:152286:32"/>the staggering settled, and the dejected comforted. <hi>Job.</hi> 4.3, 4. <hi>Behold thou hast instructed many, and thou hast strengthened the weak hands; thy words have upholden him that was falling, and thou hast strengthened the feeble knees.</hi> And <hi>Job</hi> saith of himself, that <hi>he was Eyes to the blind, and feet to the lame,</hi> Job 29.15. And much sin prevented; thou mayst gain thy Brother, save a Soul by a wise and loving Admonition. Christ directs <hi>Matth.</hi> 18.15. <hi>If thy Brother shall trespass against thee, go and tell him his fault between thee and him alone, if he shall hear thee, thou hast gained thy Bro<g ref="char:EOLhyphen"/>ther,</hi> &amp;c.</p>
+                     <p n="4">4. Consider for this end God hath given us Gifts and Graces. 1 <hi>Cor.</hi> 22.7. <hi>The Ministra<g ref="char:EOLhyphen"/>tion of the Spirit is given to every man to profit withal.</hi> The <hi>Greek</hi> word imports such a kind of profit as redounds to Community, (as one observes upon the place.) We should imploy our Talents for a publick good, for that end for which God hath given them, or else we misemploy them.</p>
+                     <p n="5">5. It will bring great comfort in a dying hour; <hi>Hezekiahs</hi> integrity did greatly comfort him in the apprehensions of Death; though thy holy Exhortations and wise Admonitions have not had their desired effect upon others,
+<pb n="55" facs="tcp:152286:32"/>yet thou shalt have comfort, in that thou hast discharged thy Duty; though thou hast not gained thy Brother, yet thou shalt save thy own Soul, <hi>Ezek.</hi> 3.20. And the neglect of this Duty will gripe sore at the hour of death: It's reported of a godly Minister, that he should utter himself thus upon his Death-bed: <hi>I confess that in publick I have been somewhat full in Reproof, in Admonition, in Instruction: but in private my backwardness, my bashfulness, my dastardliness, have been intollerable, and I may truly say, that if any thing lie as a burden upon my Conscience, it's this.</hi> When Death comes to look thee on the Face, (as shortly it will) then nothing can comfort thee but thy inte<g ref="char:EOLhyphen"/>grity.</p>
+                     <p>
+                        <hi>Qu.</hi> But what must we do rightly to dis<g ref="char:EOLhyphen"/>charge this Duty of Mutual Exhortation?</p>
+                     <p>
+                        <hi>Ans.</hi> For Direction herein I shall,</p>
+                     <p n="1">1. Shew the hindrances to this Duty.</p>
+                     <p n="2">2. Give some helps for the right manage<g ref="char:EOLhyphen"/>ment of it.</p>
+                     <p n="1">1. Wouldst thou be found in the practice of this great important Duty? Then labour to remove those things which are hindrances to it: as,</p>
+                     <pb n="56" facs="tcp:152286:33"/>
+                     <p n="1">1. Want of affection one to another, we are not kindly affectioned to one another, and the want of love is a great hindrance to this duty, love among Christians is much decayed; the heat and fervor of our love to God is much abated, and no wonder that our love to one another is so remiss; we are fallen into the dregs of time, the last and worst times, of which Christ speaks, <hi>Mat.</hi> 24.12. <hi>That be<g ref="char:EOLhyphen"/>cause iniquity shall abound, the love of many shall wax cold.</hi> The abounding of iniquity is a notable quench-Coal to love. It is the observa<g ref="char:EOLhyphen"/>tion of one, the world (saith he) hath been once destroyed with water for the heat of lust, and shall be again with fire for the cold<g ref="char:EOLhyphen"/>ness of love: it was said in the primitive times, how do the Christians love one another; but where is primitive love now to be found among us? Oh! Divine love, whether art thou gone? Oh! little of it doth now reside in the breasts of Christians; if there were true love among Chri<g ref="char:EOLhyphen"/>stians, there would be a considering one ano<g ref="char:EOLhyphen"/>thers wants and weaknesses, one anothers trials and temptations, one anothers fears and doubts, one anothers distresses and distractions, and acordingly comport and carry themselves each to other, pitying of, and praying for one another, sympathizing with, and bearing one
+<pb n="57" facs="tcp:152286:33"/>anothers burthen; certainly the decay of love among us is a great hindrance to this duty.</p>
+                     <p n="2">2. Want of Spirituality is another hin<g ref="char:EOLhyphen"/>drance to this duty; our hearts are not in a spiritual frame, there is spirituality much wan<g ref="char:EOLhyphen"/>ting in the hearts and conversations of Christi<g ref="char:EOLhyphen"/>ans, they are Carnal, and walk as Men, as the Apostle charges the <hi>Corinth.</hi> 1 <hi>Cor.</hi> 3.3. <hi>For ye are yet Carnal, for whereas there is among you envying and strife, and divisions, are ye not Car<g ref="char:EOLhyphen"/>nal and walk as men?</hi> Envying, strife and di<g ref="char:EOLhyphen"/>visions are works of the flesh; a spiritual car<g ref="char:EOLhyphen"/>riage and conversation is much wanting, though much expected among Christi<g ref="char:EOLhyphen"/>ans; how can he that is Carnal exhort others to Spirituality? How can he restore a a fallen Brother, <hi>Gal.</hi> 6.1. Ye that are spiritual restore such an one in the spirit of meekness. The decay of the power of Godliness is a great hindrance to this duty.</p>
+                     <p n="3">3. Another hindrance is bashfulness of Spirit, there is a strange kind of bashfulness among Christians, in reference to this, afraid to reprove, to rebuke, to exhort, lest they should offend; so we chuse rather to offend in the neglect of our duty, than to be faithful lest we should offend. <hi>Paul</hi> was of another Spirit, <hi>Gal.</hi> 2.11. He would not spare an offending <hi>Peter,</hi> we are
+<pb n="58" facs="tcp:152286:34"/>apt to think that to be faithful to one another, will cause a breach of love, when it's the best way to increase it: Many are ready to object, that if they do admonish freely, they shall lose their friend, when it's the only way to keep him. <hi>Let the righteous smite me,</hi> saith David, <hi>it shall be a kindness, and let him reprove me, it shall be an excellent Oyl which shall not break my head,</hi> Psal. 141.5.</p>
+                     <p n="4">4. Selfishness doth much obstruct and hin<g ref="char:EOLhyphen"/>der the practice of this duty. Christians are of private Spirits; Oh! it's a very selfish age we live in, all seek their own, we do not walk by the Apostles rule, <hi>Rom.</hi> 15.1, 2. We then that are strong ought to bear the infirmities of the weak, and not to please our selves; let eve<g ref="char:EOLhyphen"/>ry one of us please his Neighbour for his good to edification.</p>
+                     <p n="5">5. Want of life and zeal. Many of the pro<g ref="char:EOLhyphen"/>fessors of this age have a name to live, but are dead, walking Sepulchres, a living name written upon the Sepulchre of the dead, many are rather nominal than real Christians, no life, no warmth, no heat in them, how can they that have no life or heat in themselves, quicken or heat others, such will rather deaden than quicken; how do many stifle and quench the motions of the Spirit in one another, cast
+<pb n="59" facs="tcp:152286:34"/>water upon that holy fire, and instead of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>irring up, do stop and hinder one another <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> their Holy Progress? Christians in this <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ge are more notional than experimental, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ore formal than powerful, which is a great <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>inderance to this duty.</p>
+                     <p>Thus having pointed at the hindrances, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> shall lay down some helps which are <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>reatly conducing to the practice of this <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>uty.</p>
+                     <p n="1">1. Is Knowledge; Would you exhort <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ne another, then labour after much know<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>edge, to be filled with all knowledge, <hi>Rom.</hi> 15.14. It was the great commenda<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ion of this Church of the <hi>Romans,</hi> that they were filled with all knowledge, able <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>o admonish one another, he that teacheth others, must be taught himself, he that gives light to others, must himself be in<g ref="char:EOLhyphen"/>lightned, <hi>nihil dat quod non habet,</hi> no man can give that which he hath not. Get a spiri<g ref="char:EOLhyphen"/>tual Treasure of the word in your hearts, that it dwell richly in you, 2 <hi>Col.</hi> 3.16. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, in-dwell in you that you may be like the good Scribe instructed unto the Kingdom of God, which the Lord Christ likens unto an Housholder, which bringeth forth out of his Treasure things new
+<pb n="60" facs="tcp:152286:35"/>and old, <hi>Mat.</hi> 13.52. <hi>The Tengue of the Wise is as a Tree of life, it feeds many,</hi> Prov. 10.20, 21. A knowing Christian yields precious and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>easant food, wherewith many are f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</p>
+                     <p>
+                        <gap reason="illegible" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ber for a spirit of meekness, a meek spirit i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <gap reason="illegible" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> exhort and admonish, <hi>Gal.</hi> 6.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. <gap reason="illegible" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                        <hi>
+                           <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>hat is overtaken in a fault, must be restored in the spirit of meekness.</hi> The A<g ref="char:EOLhyphen"/>postle <hi>Paul</hi> exhorts <hi>Timothy,</hi> 2 <hi>Tim.</hi> 2.25. <hi>In meekness instructing those that oppose them<g ref="char:EOLhyphen"/>selves,</hi> as meekness becomes Ministers, so all Christians, it's a Garment that becomes every Christians back; as the meek are most fit to receive instruction, counsel, and admonition, so the meek are most fit to instruct, to counsel, and admonish, meekness and wisdom, they are coupled together, <hi>James</hi> 3.13. <hi>Moses</hi> is re<g ref="char:EOLhyphen"/>nowned in Scripture for meekness, and wis<g ref="char:EOLhyphen"/>dom.</p>
+                     <p n="3">3. Keep up and maintain a Spirit of love, <hi>let Brotherly love continue, Heb.</hi> 13.1. Love will carry us out to seek the good of one ano<g ref="char:EOLhyphen"/>ther, make us publick spirited, this is one excel<g ref="char:EOLhyphen"/>lent property of love that it seeketh not her own, 1 <hi>Cor.</hi> 13.5. 1 <hi>Cor.</hi> 10.33. The Apostle <hi>Paul</hi> speaking of <hi>Timothy,</hi> who sought the good of the <hi>Philippians,</hi> saith, <hi>Phil.</hi> 2.20. <hi>I
+<pb n="61" facs="tcp:152286:35"/>have no man like minded who will naturally care for your state.</hi> Love (saith one) is the spring of labour, actions are <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ffections put forth and made visible; love will make Chri<g ref="char:EOLhyphen"/>stians laborious, seeking the good of one ano<g ref="char:EOLhyphen"/>ther. It's the observation of <hi>Austin,</hi> that love built the two Cities, holy love built the City of God, and unholy love built, or is dayly building the City of Satan; love is a joyning or edifying, and condescending Grace, <hi>Ephes.</hi> 4.16. <hi>officium ascendit, amor descendit,</hi> duty ascends, and love descends, it makes a man of a condescending Spirit; labor (Christians) to re<g ref="char:EOLhyphen"/>ceive and maintain a Spirit of love; our love should be universal to all Saints. <hi>Luthers</hi> mot<g ref="char:EOLhyphen"/>to was <hi>in quo aliquid Christi video diligo.</hi>
+                     </p>
+                     <p n="4">4. Labour for more plentiful effusions of the Spirit, to be filled with the Spirit, <hi>Eph.</hi> 5.18. Call for more Flagons of this holy Wine, press after greater Measures, and higher De<g ref="char:EOLhyphen"/>grees of Holiness, get up to the top of God<g ref="char:EOLhyphen"/>liness, perfect Holiness in the fear of God; the want of Spirituality and Holiness is a bar to this Duty, <hi>Eph.</hi> 5.15. <hi>See then that ye walk circumspectly,</hi>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, exactly, accurately, strive to get to the height of Godliness, as the word imports. If there were more Spiritua<g ref="char:EOLhyphen"/>lity among us, there would be more care of this Duty.</p>
+                     <pb n="62" facs="tcp:152286:36"/>
+                     <p n="5">5. Let the fear of God be strong in your hearts; a holy fear of God will restrain us from Sin, and it will constrain us to Duty; 'twill keep us close to all mutual and relative Duties; it will make us fear to sin, either in doing of evil, or in the omission of good, yea, to fear nothing but Sin, as <hi>Chrysostome</hi> (when he received a threatning Message from the Empress) answered, <hi>Nil nisi peccatum timeo,</hi> I fear nothing but sin. Divine Fear will fill thee full of courage and boldness in the Cause of God. It's observable, that they who are most full of the Fear of God, are most filled with a holy Magnanimity and Courage; it makes a man of a great and large Spirit: A slavish Fear doth straiten the Heart, but a ho<g ref="char:EOLhyphen"/>ly Fear doth dilate and much enlarge the Heart, <hi>Isay.</hi> 60.5. The Fear of God doth expell other Fears; as the lesser Load-Stones are said to lose their vertue in the presence of the greater, so holy Fear doth lessen and drive out of our hearts carnal and distrustful Fears: It is an awakening Grace, and it will cause us to keep one another awake in these sleepy and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ambering times.</p>
+                     <p>Lastly, Often meditate of the approach of the day of Christ, when we shall be all called to an account; and, as one saith well, though
+<pb n="63" facs="tcp:152286:36"/>men shall be saved according to their Faith, yet they shall be judged according to their works; the Judgment-day is hastening, the Judge standeth before the Door ready to come in; this day is every day nearer to us, let the appropinquation of the day of Christs coming to Judgment dwell upon thy thoughts. <hi>Exhort one another daily while it's called to day,</hi> it's but a day, and we know not how short our day may be. This well considered, will put us upon a more ready dispatch of all our works and Duties, and <hi>Blessed are those Servants whom when their Lord cometh he shall find thus doing.</hi>
+                     </p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
